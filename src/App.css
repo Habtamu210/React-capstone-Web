@@ -1,7 +1,4 @@
 .App {
   text-align: center;
-}
-
-.hori-line {
-  width: 98%;
+  overflow: hidden;
 }

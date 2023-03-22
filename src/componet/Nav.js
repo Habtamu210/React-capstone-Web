@@ -1,62 +1,24 @@
 import React from 'react';
-import { FaChevronCircleLeft } from 'react-icons/fa';
 import { NavLink } from 'react-router-dom';
-import styled from 'styled-components';
 
-function Navigation() {
-  return (
-    <Nav>
-      <NavBar>
-        <NavLinks to="/">
-          <BackArrow />
-        </NavLinks>
-        <h2>2022</h2>
-      </NavBar>
-    </Nav>
-  );
-}
+const Nav = () => (
+  <nav className="nav bg-warning">
+    <ul className="d-flex justify-content-between w-100 my-2 mx-0">
+      <li className="fonts d-flex gap-2 list-unstyled">
+        <NavLink
+          className="text-decoration-none"
+          to="/"
+        >
+          <h3 className="fonts"> ⮌</h3>
+        </NavLink>
+        <h5 className="pl-3 mt-1 fonts pad">Crypto Coin Market Cap</h5>
+      </li>
+      <li className="d-flex list-unstyled px-0">
+        <h1>🎙</h1>
+        <h1 className="px-2 font-weight-bold">☼</h1>
+      </li>
+    </ul>
+  </nav>
+);
 
-export default Navigation;
-
-const Nav = styled.nav`
-  background-color: var(--blue);
-  color: var(--white);
-  height: 60px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 25px;
-  font-size: 11px;
-`;
-
-const NavBar = styled.div`
-  display: flex;
-  color: white;
-  align-items: center;
-  margin-right: -24px;
-  width: 100vw;
-  padding-left: 1.5rem;
-  align-items: center;
-  white-space: nowrap;
-`;
-
-const NavLinks = styled(NavLink)`
-  display: flex;
-  list-style: none;
-  gap: 5px;
-  align-items: center;
-  padding: 6px 30px;
-  cursor: pointer;
-  background-color: transparent;
-  border: none;
-`;
-
-const BackArrow = styled(FaChevronCircleLeft)`
-  color: #fff;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(100%, 45%);
-  font-size: 1.8rem;
-  cursor: pointer;
-`;
+export default Nav;
