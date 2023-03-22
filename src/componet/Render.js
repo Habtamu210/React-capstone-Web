@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { NavLink } from 'react-router-dom';
 import { v4 as uuidv4 } from 'uuid';
-import { fetchFinanceData } from '../Redux/Modeling';
+import { fetchFinanceData } from '../redux/Model';
 import Crypto from './defCrypto';
 
 const Models = () => {

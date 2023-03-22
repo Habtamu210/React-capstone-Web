@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import { fetchFinanceData } from '../Redux/Modeling';
+import { fetchFinanceData } from '../redux/Model';
 
 const Details = () => {
   const cryptos = useSelector((state) => state.crypto);
