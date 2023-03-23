@@ -30,7 +30,7 @@ const Models = () => {
           type="text"
           value={search}
           aria-label="search"
-          placeholder=".....search you cryptos"
+          placeholder=" Search daily crypto exchange values"
           onChange={handleChange}
         />
       </form>
