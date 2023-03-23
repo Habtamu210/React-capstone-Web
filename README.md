@@ -80,7 +80,7 @@ It also gives us name of Crypto, its image, average price, update on todays lowe
 
 ## 🚀 Project Presentation Video <a name="live-demo"></a>
 
-- [Project Presentation Link](https://www.loom.com/share/204221f6501e4d149570e3030e00c691)
+- [Project Presentation Link](https://)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
