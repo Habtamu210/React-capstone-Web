@@ -9,13 +9,12 @@ const Nav = () => (
           className="text-decoration-none"
           to="/"
         >
-          <h3 className="fonts"> ⮌</h3>
+          <h3 className="fonts"> ⇐</h3>
         </NavLink>
-        <h5 className="pl-3 mt-1 fonts pad">Crypto Coins Daily Excnagehe Value</h5>
+        <h5 className="pl-3 mt-1 fonts pad text-center">Crypto Coins Daily Excnagehe Value</h5>
       </li>
       <li className="d-flex list-unstyled px-0">
-        <h1>🎙</h1>
-        <h1 className="px-2 font-weight-bold">☼</h1>
+        <h1 className="px-2 font-weight-bold">&#937;</h1>
       </li>
     </ul>
   </nav>
