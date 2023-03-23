@@ -3,7 +3,7 @@
 <img />
 <div>
 <img src="./src/img/home.png" alt="snapshot" width="50%"  height="440px" />
- <img src="./src/img/Details.png" alt="snapshot" width="50%"  height="440px" />
+ <img src="./src/img/Detail.png" alt="snapshot" width="50%"  height="440px" />
  </div>
   <img src="./src/img/Desktop.png" alt="snapshot" width="95%"  height="490px" />
  

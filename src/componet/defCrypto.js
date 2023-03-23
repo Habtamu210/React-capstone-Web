@@ -9,13 +9,13 @@ const Crypto = ({ crypto }) => {
   return (
     <div className="rounded-4 w-100 h-100 border border-danger d-flex justify-content-center">
       <div className="w-100">
-        <p className=" p-3 font text-light">
+        <p className=" p-2 font text-light">
           {' '}
           <span>Name:</span>
           {Name}
         </p>
-        <div className="d-flex m-4 justify-content-center">
-          <img className="images w-70" src={`https://www.cryptocompare.com${img} `} alt="symbol" />
+        <div className="d-flex m-3 justify-content-center">
+          <img className="images w-75" src={`https://www.cryptocompare.com${img} `} alt="symbol" />
         </div>
         <p />
       </div>
