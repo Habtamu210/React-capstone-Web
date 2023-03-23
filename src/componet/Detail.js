@@ -14,37 +14,37 @@ const Details = () => {
 
   return (
     <div>
-      <div className="flex bg-primary text-white h-100 w-100 border">
+      <div className="flex bg-success text-white h-100 w-100 border">
         <div className=" w-100">
           <img className="images ml-50 w-100 w" src={`https://www.cryptocompare.com${filter[0].img} `} alt="symbol" />
         </div>
         <div className="d-flex w justify-content-center">
           <div>
             <p>
-              <span className="m-3 border border-primary ">Name:</span>
+              <span className="m-3 border border-success ">Name:</span>
               {filter[0].Name}
             </p>
             <p />
             <p>
-              <span className="m-3 border border-primary ">
+              <span className="m-3 border border-success ">
                 AVERAGE PRICE:
               </span>
               {filter[0].price}
             </p>
             <p>
-              <span className="m-3 border border-primary ">
+              <span className="m-3 border border-success ">
                 TODAYS LOWEST PRICE:
               </span>
               {filter[0].lowDay}
             </p>
             <p>
-              <span className="m-3 border border-primary ">
+              <span className="m-3 border border-success ">
                 TODAYS HIGHEST PRICE:
               </span>
               {filter[0].highDay}
             </p>
-            <div className="gap-5  border border-primary ">
-              <span className="m-3 border border-primary ">
+            <div className="gap-5  border border-success ">
+              <span className="m-3 border border-success ">
                 ALGORITHM:
               </span>
               { filter[0].algo }

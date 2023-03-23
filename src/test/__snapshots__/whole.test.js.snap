@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav component renders Crypto component 1`] = `
+<div
+  className="rounded-4 w-100 h-100 border border-danger d-flex justify-content-center"
+>
+  <div
+    className="w-100"
+  >
+    <p
+      className=" p-3 font text-light"
+    >
+       
+      <span>
+        Name:
+      </span>
+    </p>
+    <div
+      className="d-flex m-4 justify-content-center"
+    >
+      <img
+        alt="symbol"
+        className="images w-70"
+        src="https://www.cryptocompare.comnew "
+      />
+    </div>
+    <p />
+  </div>
+</div>
+`;
+
+exports[`Nav component renders Models component 1`] = `
+Array [
+  <form
+    className="w-100 mb-5 bg-secondary nav"
+  >
+    <input
+      aria-label="search"
+      className="input w-100 h-2"
+      onChange={[Function]}
+      placeholder=" Search daily crypto exchange values"
+      type="text"
+      value=""
+    />
+  </form>,
+  <div
+    className="bg-primary text-white"
+  >
+    <div
+      className="grid1"
+    />
+  </div>,
+]
+`;
+
+exports[`Nav component renders Nav component 1`] = `
+<nav
+  className="nav bg-danger "
+>
+  <ul
+    className="d-flex justify-content-between w-100 my-2 mx-0"
+  >
+    <li
+      className="fonts d-flex gap-2 list-unstyled"
+    >
+      <a
+        aria-current="page"
+        className="text-decoration-none active"
+        href="/"
+        onClick={[Function]}
+      >
+        <h3
+          className="fonts"
+        >
+           ⇐
+        </h3>
+      </a>
+      <h5
+        className="pl-3 mt-0 fonts pad font-weight-light"
+      >
+        Crypto Coins Daily Excnagehe Value
+      </h5>
+    </li>
+    <li
+      className="d-flex list-unstyled px-0"
+    >
+      <h1
+        className="px-5 font-weight-light"
+      >
+        Ω
+      </h1>
+    </li>
+  </ul>
+</nav>
+`;
