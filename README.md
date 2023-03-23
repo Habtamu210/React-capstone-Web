@@ -11,7 +11,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -35,7 +34,6 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Crypto Web-app <a name="about-project"></a>
 
@@ -62,7 +60,6 @@ It also gives us name of Crypto, its image, average price, update on todays lowe
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 - **Display a list of Crypto**
@@ -73,7 +70,7 @@ It also gives us name of Crypto, its image, average price, update on todays lowe
 #### 🔭 Future Features <a name="future-features"></a>
 
 - **Add Dark mode**
-<!-- LIVE DEMO -->
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -87,10 +84,6 @@ It also gives us name of Crypto, its image, average price, update on todays lowe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -141,7 +134,6 @@ You can deploy this project using [Github Pages]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Author
 
@@ -158,7 +150,6 @@ You can deploy this project using [Github Pages]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -168,7 +159,6 @@ Feel free to check the [issues page]().
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -176,7 +166,6 @@ If you like this project give me a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 - I would like to thank [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -184,7 +173,6 @@ If you like this project give me a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
