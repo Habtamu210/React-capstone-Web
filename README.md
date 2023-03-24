@@ -80,7 +80,7 @@ It also gives us name of Crypto, its image, average price, update on todays lowe
 
 ## 🚀 Project Presentation Video <a name="live-demo"></a>
 
-- [Project Presentation Link](https://)
+- [Project Presentation Link](https://www.loom.com/share/cd21832426c14ca38a658c43c23ea051)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,8 +168,10 @@ If you like this project give me a star.
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-- I would like to thank [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/)
-- I would like to thank Microverse and our fellow micronauts.
+
+Especial thanks to Nelson [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for the original design idea.
+
+Thanks to [Financial Modeling Prep](https://site.financialmodelingprep.com/) for provide the API used in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
