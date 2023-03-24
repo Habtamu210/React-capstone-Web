@@ -8,7 +8,7 @@ exports[`Nav component renders Crypto component 1`] = `
     className="w-100"
   >
     <p
-      className=" p-3 font text-light"
+      className=" p-2 font text-light"
     >
        
       <span>
@@ -16,11 +16,11 @@ exports[`Nav component renders Crypto component 1`] = `
       </span>
     </p>
     <div
-      className="d-flex m-4 justify-content-center"
+      className="d-flex m-3 justify-content-center"
     >
       <img
         alt="symbol"
-        className="images w-70"
+        className="images w-75"
         src="https://www.cryptocompare.comnew "
       />
     </div>
@@ -61,7 +61,7 @@ exports[`Nav component renders Nav component 1`] = `
     className="d-flex justify-content-between w-100 my-2 mx-0"
   >
     <li
-      className="fonts d-flex gap-2 list-unstyled"
+      className="fonts d-flex gap- list-unstyled"
     >
       <a
         aria-current="page"
@@ -76,9 +76,9 @@ exports[`Nav component renders Nav component 1`] = `
         </h3>
       </a>
       <h5
-        className="pl-3 mt-0 fonts pad font-weight-light"
+        className="pl-3 mt-1 fonts pad font-weight-light"
       >
-        Crypto Coins Daily Excnagehe Value
+          Crypto Coins Excnagehe Value
       </h5>
     </li>
     <li
