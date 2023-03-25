@@ -3,20 +3,20 @@ import PropTypes from 'prop-types';
 
 const Crypto = ({ crypto }) => {
   const {
-    Name, img,
+    img, Name,
   } = crypto;
 
   return (
-    <div className="rounded-4 w-100 h-100 border border-danger d-flex justify-content-center">
+    <div className="rounded-0 w-100 h-100 border border-none d-flex justify-content">
       <div className="w-100">
-        <p className=" p-2 font text-light">
+        <div className="d-flex m-1 justify-content-left">
+          <img className="images w-74" src={`https://www.cryptocompare.com${img} `} alt="symbol" />
+        </div>
+        <p className=" p-2 font text-light text-center">
           {' '}
           <span>Name:</span>
           {Name}
         </p>
-        <div className="d-flex m-3 justify-content-center">
-          <img className="images w-75" src={`https://www.cryptocompare.com${img} `} alt="symbol" />
-        </div>
         <p />
       </div>
     </div>

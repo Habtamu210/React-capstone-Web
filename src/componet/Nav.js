@@ -9,7 +9,7 @@ const Nav = () => (
           className="text-decoration-none"
           to="/"
         >
-          <h3 className="fonts"> ≣ </h3>
+          <h3 className="fonts"> ⮌</h3>
         </NavLink>
         <h5 className="pl-3 mt-1 fonts pad">Crypto Coin Market Cap</h5>
       </li>

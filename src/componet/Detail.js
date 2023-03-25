@@ -15,7 +15,7 @@ const Details = () => {
   return (
     <div>
       <div className="flex bg-primary text-white h-100 w-100 border">
-        <div className=" w-100">
+        <div className=" w-75">
           <img className="images ml-50 w-100 w" src={`https://www.cryptocompare.com${filter[0].img} `} alt="symbol" />
         </div>
         <div className="d-flex w justify-content-center">

@@ -2,28 +2,28 @@
 
 exports[`Nav component renders Crypto component 1`] = `
 <div
-  className="rounded-4 w-100 h-100 border border-danger d-flex justify-content-center"
+  className="rounded-0 w-100 h-100 border border-none d-flex justify-content"
 >
   <div
     className="w-100"
   >
+    <div
+      className="d-flex m-1 justify-content-left"
+    >
+      <img
+        alt="symbol"
+        className="images w-74"
+        src="https://www.cryptocompare.comnew "
+      />
+    </div>
     <p
-      className=" p-2 font text-light"
+      className=" p-2 font text-light text-center"
     >
        
       <span>
         Name:
       </span>
     </p>
-    <div
-      className="d-flex m-3 justify-content-center"
-    >
-      <img
-        alt="symbol"
-        className="images w-75"
-        src="https://www.cryptocompare.comnew "
-      />
-    </div>
     <p />
   </div>
 </div>
@@ -72,7 +72,7 @@ exports[`Nav component renders Nav component 1`] = `
         <h3
           className="fonts"
         >
-           ≣ 
+           ⮌
         </h3>
       </a>
       <h5
